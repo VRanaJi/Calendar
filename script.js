@@ -42,7 +42,7 @@ prevButton.addEventListener("click", () =>{
 })
 
 nextButton.addEventListener("click", () =>{
-  currentDate.setMonth(currentDate.getMonth() + 1);
-  renderCalendar();
-});
-renderCalendar();
+  currentDate.setMonth(currentDate.getMonth() + 1)
+  renderCalendar()
+})
+renderCalendar()
